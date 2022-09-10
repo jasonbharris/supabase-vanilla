@@ -1,0 +1,12 @@
+{
+  "name": "supabase-vanilla",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.6",
+    "dotenv": "^16.0.2"
+  }
+}
